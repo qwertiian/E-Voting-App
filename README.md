@@ -20,7 +20,7 @@ Technologies Used 💻
 How to Run 🚀
 
     Clone this repository:
-        git clone https://github.com/your-username/E-Voting-App.git
+        git clone https://github.com/qwertiian/E-Voting-App.git
 
     Open the project in Android Studio.
     Build and run the app on an emulator or physical device.
